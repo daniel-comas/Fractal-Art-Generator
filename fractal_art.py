@@ -1,7 +1,7 @@
 from cmu_graphics import *
 
 def onAppStart(app):
-    app.color = 'beige'
+    app.color = 'pink'
     app.depth = 1
     app.setMaxShapeCount(10000)
 
